@@ -1,0 +1,65 @@
+{
+      "existence of idu": [
+            "Does the pt have a history of IDU?",
+            "Has the patient ever used IV drugs?",
+            "What is the patient's intravenous drug use (IVDU) history?",
+            "What is the patient's injection drug use (IDU) history?",
+            "Has the pt ever injected drugs?"
+      ],
+      "drug names": [
+            "To what IV drugs has the patient been exposed?",
+            "Which IV drugs has the pt used?",
+            "Which intravenous drugs has the patient used?",
+            "Which injection drugs?",
+            "Which illicit drugs has the patient injected?"
+      ],
+      "visible signs of idu": [
+            "Does the patient have any physical evidence of IDU?",
+            "Does the patient have any physical evidence of IVDU?",
+            "Does the patient have any physical evidence of injection drug use?",
+            "Does the patient have any track marks?",
+            "Is there any physical evidence of intravenous drug use?"
+      ],
+      "risky needle-using behavior": [
+            "Has the patient ever shared needles or used dirty needles?",
+            "Have there been any risky behaviors (regarding IVDU/IDU) observed in the patient?",
+            "Have there been any risky behaviors (regarding injection drug use) observed in the pt?",
+            "Have there been any risky behaviors (regarding intravenous drug use) observed in the patient?",
+            "Does the pt have a h/o needle-sharing or dirty needles?"
+      ],
+      "active/historical use": [
+            "Active vs historical IVDU/IDU?",
+            "Is the patient actively using IV drugs?",
+            "Is the pt actively injecting drugs?",
+            "Is the patient's IVDU/IDU in remission?",
+            "Is the pt's injection drug use controlled?"
+      ],
+      "frequency of use": [
+            "How frequently has the patient used IV drugs?",
+            "How frequently has the pt used intravenous drugs?",
+            "How frequently the pt injected/injects drugs?",
+            "Occasional vs daily IVDU?",
+            "What is the frequency of pt's injection drug use?"
+      ],
+      "skin popping": [
+            "Does the patient have any history of skin popping?",
+            "Does the pt have any hx of skin popping?",
+            "has the pt ever done skin popping?",
+            "is there any hx of skin popping?",
+            "Skin popping history?"
+      ],
+      "last use": [
+            "When did the patient last use IV drugs?",
+            "When did the patient last use injection drugs?",
+            "when has the pt last injected drugs?",
+            "when is the last IVDU?",
+            "Last IDU?"
+      ],
+      "self-harm reduction interventions": [
+            "Has the patient been counseled on safe injection technique?",
+            "Has the patient received any self-harm reduction interventions specific to IVDU behaviors?",
+            "Has there been any discussion of syringe service program (SSP)?",
+            "Has there been any discussion of clean syringe program?",
+            "Has there been any discussion of RIS4E?"
+      ]
+}
