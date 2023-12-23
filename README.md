@@ -10,4 +10,4 @@ The `plot_data` folder contains data tables used for the error plots in the pape
 The `environment.yml` file has all the necesary packages to create the Conda environment.
 
 
-`The codes for QA modeling is heavily adapted from the [huggingface example on question-answering task](https://github.com/huggingface/transformers/blob/master/examples/legacy/question-answering/run_squad.py) with some modifications`
+`The codes for QA modeling is heavily adapted from the (huggingface example on question-answering task)[https://github.com/huggingface/transformers/blob/master/examples/legacy/question-answering/run_squad.py] with some modifications`
