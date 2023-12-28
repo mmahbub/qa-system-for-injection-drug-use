@@ -1,4 +1,5 @@
-### qa-system-for-injection-drug-use
+### This code was used for QA model development described in the paper titled "Question-Answering System Extracts Information on Injection Drug Use from Clinical Notes".
+
 
 The `src` folder contains 2 sub-folders: `modeling` and `data_prep`
 
